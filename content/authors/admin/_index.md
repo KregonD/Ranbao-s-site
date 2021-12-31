@@ -25,7 +25,7 @@ education:
   courses:
     - course: MSc in Robotics
       institution: Delft University of Technology
-      year: 2020
+      year: 2021
     - course: BEng in Robotics
       institution: Southern University of Science and Technology
       year: 2017
